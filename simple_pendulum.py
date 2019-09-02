@@ -11,7 +11,7 @@ theta_0 = 0.2 #rad
 omg_0 = 0 #rad/s
 l = 1.0 #m (meter)
 sim_time = 5 #s, simulation time
-dt = 0.001 # s, timestep
+dt = 0.005 # s, timestep
 timesteps = int(sim_time/dt)
 
 
