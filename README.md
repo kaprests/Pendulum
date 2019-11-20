@@ -10,3 +10,6 @@ http://htmlpreview.github.io/?https://github.com/kaprests/Pendulum/blob/master/p
 
 pendulum2:
 https://htmlpreview.github.io/?https://github.com/kaprests/Pendulum/blob/master/pendulum2.html
+
+pendulum3:
+https://htmlpreview.github.io/?https://github.com/kaprests/Pendulum/blob/master/pendulum3.html
